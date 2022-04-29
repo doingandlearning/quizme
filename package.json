@@ -1,0 +1,15 @@
+{
+  "name": "quizme",
+  "version": "0.0.1",
+  "description": "A quiz app to help with spaced repetition.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Cunningham",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
